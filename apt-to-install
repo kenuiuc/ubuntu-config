@@ -1,0 +1,63 @@
+libreoffice
+
+sysstat
+iotop
+
+acpi
+acpitool
+blueman
+bridge-utils
+build-essential
+curl
+dconf-cli
+fdisk
+ffmpeg
+filezilla
+gimp
+git
+glmark2
+gnome-tweak-tool
+gnupg
+gparted
+gzip
+hardinfo
+htop
+ibus-pinyin
+intel-gpu-tools
+libvirt-clients
+libvirt-daemon-system
+lm-sensors
+lynx
+net-tools
+okular
+qemu-kvm
+samba
+screen
+vifm
+vim
+virt-manager
+virtualbox
+vlc
+wget
+whereami
+xclip
+tree
+
+[add ppa]
+shotwell
+
+[deb pkgs]
+astrill
+vscode
+slack-desktop
+
+[snap pkgs]
+blender
+spotify
+telegram-desktop
+
+[gnome extensions]
+cpufreq
+freon
+cpu power manager
+
