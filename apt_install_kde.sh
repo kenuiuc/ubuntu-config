@@ -8,6 +8,9 @@ sudo apt autoremove -y &&
 # kde-plasma desktop environment
 sudo apt install -y kde-plasma-desktop &&
 
+# kde screenshot tool
+sudo apt install -y kde-spectacle &&
+
 sudo apt install -y acpi &&
 sudo apt install -y acpitool &&
 sudo apt install -y blueman &&
