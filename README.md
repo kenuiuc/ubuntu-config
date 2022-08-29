@@ -1,4 +1,4 @@
-TODO: delete large files
+TODO: look at this large file storage solution
 
 remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 remote: warning: See http://git.io/iEPt8g for more information.
